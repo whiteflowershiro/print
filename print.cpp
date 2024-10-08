@@ -1,6 +1,6 @@
-   #include <iostream>
+#include <iostream>
 
-   int main() {
-       std::cout << "funny print function" << std::endl;
-       return 0;
-   }
+int main() {
+    std::cout << "funny print function" << std::endl;
+    return 0;
+}
