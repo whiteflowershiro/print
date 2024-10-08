@@ -1,0 +1,1 @@
+print("Funny Print Function")
