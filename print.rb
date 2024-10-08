@@ -1,0 +1,1 @@
+puts 'funny print function'
