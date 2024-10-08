@@ -1,0 +1,1 @@
+echo "funny print function"
